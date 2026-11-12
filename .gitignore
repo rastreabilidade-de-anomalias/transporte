@@ -1,0 +1,5 @@
+# Dados das rotas nunca vão para o repositório
+*.xlsx
+*.xls
+*.csv
+*.json
